@@ -1,4 +1,5 @@
 [![Bash Workflow](https://github.com/vpayno/CHANGEME-REPONAME/actions/workflows/bash.yml/badge.svg)](https://github.com/vpayno/CHANGEME-REPONAME/actions/workflows/bash.yml)
+[![Git Workflow](https://github.com/vpayno/CHANGEME-REPONAME/actions/workflows/git.yml/badge.svg)](https://github.com/vpayno/CHANGEME-REPONAME/actions/workflows/git.yml)
 
 # CHANGEME_PROJECT_LABEL
 
